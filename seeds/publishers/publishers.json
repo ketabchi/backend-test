@@ -1,0 +1,20 @@
+[
+	{
+		"name" : "نشر نو",
+		"slug" : "انتشارات-نشر-نو",
+		"code" : "1001",
+		"image" : {
+				"name" : "1545224575178-50xh.png",
+				"thumbName" : "نشر-نو-50xh.png"
+		}
+	},
+	{
+		"code" : "1002",
+		"name" : "مبتکران",
+		"image" : {
+				"name" : "103.jpg",
+				"thumbName" : "thumb-main.png"
+		},
+		"slug" : "انتشارات-مبتکران"
+	}
+]

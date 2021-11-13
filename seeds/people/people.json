@@ -1,0 +1,36 @@
+[
+	{
+		"code" : "1001",
+		"image" : {
+			"name" : "1566816022802-fc4dh.jpg",
+			"thumbName" : "علیرضا-عبدالمحمدی-fc4dh.jpg"
+		},
+		"slug" : "علیرضا-عبدالمحمدی",
+		"faName" : "علیرضا عبدالمحمدی"
+	},
+	{
+		"code" : "1002",
+		"image" : {
+			"name" : "1566816092916-p7eez.jpg",
+			"thumbName" : "شهاب-اناری-p7eez.jpg"
+		},
+		"slug" : "شهاب-اناری",
+		"faName" : "شهاب اناری"
+	},
+	{
+		"slug" : "یووال-نوح-هراری",
+		"code" : "1003",
+		"faName" : "یووال نوح هراری",
+		"enName" : "Yuval N. Harari",
+		"image" : {
+			"name" : "1614861242063-l6dkm.jpg",
+			"thumbName" : "یووال-نوح-هراری-l6dkm.jpg"
+		}
+	},
+	{
+		"slug" : "باب-یوریچاک",
+		"code" : "1004",
+		"enName" : "Bob Urichuck",
+		"faName" : "باب یوریچاک"
+	}
+]
