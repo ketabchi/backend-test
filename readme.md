@@ -1,4 +1,3 @@
-                   
 This is for examining developers willing to work in [ketabchi](https://ketabchi.com/). If you like to join us feel free to solve the problems and send the git patch for [us](mailto:zoli@ketabchi.com).
 ## Requirements
 The requirements for running the tests and seeing the results are
